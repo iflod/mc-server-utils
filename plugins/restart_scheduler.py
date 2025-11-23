@@ -2,7 +2,7 @@ import time
 import subprocess
 from datetime import datetime
 
-RESTART_HOUR = 4
+RESTART_HOUR = 6
 SERVER_SCRIPT = "./start.sh"
 
 def log(msg):

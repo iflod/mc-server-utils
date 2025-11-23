@@ -6,9 +6,9 @@ metrics:
   - name: cpu_usage
     warn_above: 85
   - name: ram_usage
-    warn_above: 90
+    warn_above: 85
   - name: tps
-    warn_below: 16
+    warn_below: 18
 
 alert:
   webhook: "http://localhost:8080/hook"

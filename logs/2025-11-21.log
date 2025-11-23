@@ -1,0 +1,6 @@
+[INFO] Starting scan at 2025-11-21 02:55:29
+[OK] restart_scheduler.py
+[OK] player_activity_tracker.py
+[FAIL] legacy_normalizer.py - TypeError: unsupported operand type(s) for /: 'int' and 'str'
+[OK] plugin_list.json
+[INFO] Scan completed.

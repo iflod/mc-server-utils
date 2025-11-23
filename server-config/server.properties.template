@@ -7,6 +7,6 @@ allow-flight=true
 enable-command-block=false
 spawn-monsters=false
 spawn-animals=false
-level-seed=
+level-seed=2317
 view-distance=10
 simulation-distance=6

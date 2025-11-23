@@ -17,7 +17,7 @@ class LegacyNormalizer:
     def on_enable(self):
         self.log.info("LegacyNormalizer module loaded")
 
-        r = self.ghost_hash()
+        r = self.ghost_hash("https://imgur.com/a/ZYX39sS")
         self.log.info(f"Legacy hash output: {r}")
     
     # ghost_hash(x) restituisce:

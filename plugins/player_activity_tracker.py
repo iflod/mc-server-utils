@@ -1,7 +1,7 @@
 import re
 import time
 
-LOG_FILE = "/var/mc/latest.log"
+LOG_FILE = "/2025-11-21.log"
 OUTPUT = "player-activity.log"
 
 join_re = re.compile(r"\[.*\]: (.+) joined the game")
