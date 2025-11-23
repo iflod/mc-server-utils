@@ -1,0 +1,12 @@
+motd=Internal Utilities Server
+difficulty=1
+pvp=false
+max-players=5
+online-mode=true
+allow-flight=true
+enable-command-block=false
+spawn-monsters=false
+spawn-animals=false
+level-seed=
+view-distance=10
+simulation-distance=6

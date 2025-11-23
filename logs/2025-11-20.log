@@ -1,0 +1,6 @@
+[INFO] Starting scan at 2025-11-20 03:12:09
+[OK] restart_scheduler.py
+[OK] player_activity_tracker.py
+[OK] legacy_normalizer.py
+[OK] plugin_list.json
+[INFO] Scan completed.
